@@ -1,0 +1,23 @@
+body {
+background-color: teal;
+}
+a {
+text-decoration: none;
+color: black;
+}
+a.active {
+background-color: teal;
+color: white;
+}
+footer {
+padding-top: 200px;
+}
+li {
+background-color: teal;
+border-style: solid;
+border-color: white;
+color: white;
+}
+.linkcustomstyle {
+color: white;
+}
